@@ -21,4 +21,6 @@ If incorrect data is entered, output the message:
 If correct data is entered - transfer to **/profile** page.
 User authorization information will be stored in localStorage with the parameter true / false.
 
+Everything you need to implement using Redux.
+
 Design: https://zpl.io/2GAeqmJ
